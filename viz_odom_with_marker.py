@@ -30,7 +30,7 @@ class odom_viz:
 		self.marker.color.b = 0.0
 		self.marker.color.a = 1.0
 
-		self.marker.scale.x = 0.01
+		self.marker.scale.x = 0.1
 		self.marker.scale.y = 0.1
 		self.marker.scale.z = 0.1 
 		if self.count==0:
